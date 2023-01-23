@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Public News Droid</title>
+</head>
+<frameset rows="22%,78%">
+<frame src="public news.html"name="f1">
+<frame src="frame.html"name="f2">
+</frame></frame>
+</frameset>
+</html>
