@@ -1,0 +1,25 @@
+<!DOCTYPE html>    
+<html>    
+<head>    
+    <title>Login Form</title>    
+    <link rel="stylesheet" type="text/css" href="css/style.css">    
+</head>    
+<body>  
+<body background="img3.jpg"height="10"width="8">
+<br>   
+        <label><b>User Name     
+        </b>    
+        </label>    
+        <input type="text" name="Uname" id="Uname" placeholder="Username" required/>    
+        <br><br>    
+        <label><b>Password     
+        </b>    
+        </label>    
+        <input type="Password" name="Pass" id="Pass" placeholder="Password" required/>    
+        <br><br>    
+   <button onclick="window.location.href = 'file:///C:/Users/smoha/OneDrive/Desktop/Project/main1.html';"> Submit </button>
+        
+    </form>     
+</div>    
+</body>    
+</html>
